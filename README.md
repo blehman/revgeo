@@ -33,5 +33,5 @@ $ cat data.geo | ./rev\_geo.py -k 'your simple google api key' -D"|"
 
 ##Results header
 
-"Country"|"Country Abbreviation"|"ProvinceJ"|"Postal Code"|"Formatted Address"
+"Country"|"Country Abbreviation"|"Province"|"Postal Code"|"Formatted Address"
 
