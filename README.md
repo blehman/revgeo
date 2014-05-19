@@ -5,8 +5,7 @@
 <pre>
 usage: rev_geo.py [-h] [-d INPUT_DELIM] [-D OUTPUT_DELIM] [-k KEY]
 
-takes 'lat,long' pairs and returns location information about a given geo
-coordinate
+takes 'lat,long' pairs and returns location information 
 
 optional arguments:
   -h, --help            show this help message and exit
