@@ -1,7 +1,7 @@
 #revgeo
 ======
 
-##simple application of pygeocoder that returns info about given geo coordinates. 
+##simple application of pygeocoder: returns geo location info. 
 <pre>
 usage: rev_geo.py [-h] [-d INPUT_DELIM] [-D OUTPUT_DELIM] [-k KEY]
 
