@@ -25,7 +25,7 @@ $ cat data.geo
 38.42217564, 27.12925136  
 51.34414215, -0.47409109  
 <pre>
-$ cat data.geo | ./rev\_geo.py -k 'your simple google api key' -D"|"
+$ cat data.geo | ./rev_geo.py -k 'your simple google api key' -D"|"
 </pre>
 "Turkey"|"TR"|"Izmir"|"35030"|"Forum Bornova Avm, Kazımdirik Mh., Forum Bornova, 35100 Izmir/Izmir Province, Turkey"  
 "Turkey"|"TR"|"Izmir"|"35260"|"Konak Mh., Mustafa Kemal Sahil Bulvarı, 35480 Konak/Izmir Province, Turkey"  
